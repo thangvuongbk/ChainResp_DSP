@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1655139015 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\src\base_chain_resp_handler.cpp
+	"../include/base_chain_resp_handler.h"
+	<iostream>
+
+1655138933 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\include\base_chain_resp_handler.h
+	"../chain_resp_interface.h"
+
+1655139151 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\chain_resp_interface.h
+
+1655138985 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\main.cpp
+	<iostream>
+	"include/specific_chain_resp_handler.h"
+
+1655139087 d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\include\specific_chain_resp_handler.h
+	"base_chain_resp_handler.h"
+
+1655139129 source:d:\10_workingspace\09_codeblock_ws\01_designpattern_study\chainresponsibility_dsp\src\specific_chain_resp_handler.cpp
+	"../include/specific_chain_resp_handler.h"
+	<iostream>
+	<math.h>
+
